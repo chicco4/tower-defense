@@ -1,2 +1,3 @@
 # tower-defense
-...to do
+
+tips from: https://youtu.be/C4_iRLlPNFc
